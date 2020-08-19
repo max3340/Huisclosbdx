@@ -11,81 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20ed5fc1-ee2a-4514-ab6c-0b22f25462a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/huis-clos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/Version20200817112616.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/Version20200817112718.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/Version20200817113004.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/Version20200817115119.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/Version20200817140045.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/Version20200817140327.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/acceuil.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/ACCEUIL.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Aftermovies.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Autres.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Captations.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Contact.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Equipe.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/PORTFOLIO.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/PUBLICITÉ.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/TEASER.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/contact1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/descp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/equipe1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo-hc-blanc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo-hc-noir.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/portfolio1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/videos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/javascript/acceuil.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/Admin/AdminCategoryController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/Admin/AdminMemberController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/Admin/AdminVideoController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/CategoryController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/HomeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/MemberController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/VideoController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entity/Category.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entity/Members.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entity/Video.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Form/CategoryType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Form/MemberType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Form/VideoType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repository/CategoryRepository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repository/MembersRepository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repository/VideoRepository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/category/_form.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/category/edit.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/category/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/category/new.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/membres/_form.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/membres/edit.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/membres/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/membres/new.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/video/_form.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/video/edit.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/video/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/video/new.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/_banner.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/_contact.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/_description.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/_equipe.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/_footer.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/_formcontact.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/_menu.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/_portfolio.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/_totalvideos.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/_video.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/contact.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/equipe.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/home.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/parlonsen.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/portfolio.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +155,7 @@
       <workItem from="1597662596894" duration="13919000" />
       <workItem from="1597678508893" duration="1000" />
       <workItem from="1597751757986" duration="3604000" />
-      <workItem from="1597826216149" duration="18272000" />
+      <workItem from="1597826216149" duration="20454000" />
     </task>
     <servers />
   </component>
